@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 10px;
+}
+section{
+    width: 25vw;
+    padding: 8px;
+    background-color: rgb(241, 183, 126);
+}
+i{
+   margin-left: 140px;
+}
+.item{
+    width: 25vw;
+    height: 20vh;
+    background-color: rgb(255, 215, 169);
+    font-size: 14px;
+    padding: 5px;
+}
